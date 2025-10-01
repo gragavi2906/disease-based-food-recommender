@@ -1,0 +1,50 @@
+DISEASES,VITAMIN DEFECIENCY
+Dengue," C,D"
+Chicken pox, A
+Covid-19,"A,C,D,E"
+Ashtma,"C,D,E"
+Cholera,"A,C,D"
+Jaundice,B12
+Malaria,A
+Tuberculosis,D
+Diabetes,D
+Stomach Aches,B12
+Allergies,D
+Diarrhea,A
+Influenza,D
+Anaemia,B12
+Scurvy,C
+Night blindness,A
+Beriberi,B1
+Ariboflavinosis,B2
+Pellagra,B3
+Paresthesia,B5
+Dermatitis,B7
+Megaloblastic anemia,"B9, B12"
+Nosebleeds ,C
+Swelling of Gums,C
+Rickets,D
+Osteomalacia,D
+Less Fertility,E
+Non-Clotting of Blood.,K
+Enteritis,B7
+Colotrol cancer,D
+Osteoporosis,D
+Neurological disorder,B6
+Convulsions,B6
+Stroke,B6
+Keratomalica,A
+Retarded growth,B2
+Nausea,B12
+Less fertility,E
+Ariboflavinosis,B2
+Swelling of gums,C
+Xerophthalmia,B12
+Pernicious anemia,A
+Nerual tube defect,B9
+Thyroid,D
+Dysfunction,D
+Brain fog,D
+Insomnia,B9
+Constipation,D
+Glossitis,B2

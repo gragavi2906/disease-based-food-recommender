@@ -1,0 +1,195 @@
+Richfoods,Vitamins
+Apple(Fuji),C
+Apple(Jholey),C
+Arum,"C,E,B"
+Asparagus,"A,C,E,K"
+Bakula,"B6,B12"
+Bamboo Shoot,"A,E,B"
+Banana,B6
+Barela,B12
+Bauhania Flower,"E,C"
+Bitter Gourd,"C,A,K"
+Bottle Gourd,"C,B"
+Brd Leaf Mustard,"A,C,K"
+Brinjal Long,"A,C,K,B6"
+Brinjal Round,"A,C,K,B7"
+Broccoli,"C,K,A,B"
+Cabbage,"C,K,B6"
+Cabbage(Local),"C,K,B7"
+Cabbage(Terai),"C,K,B8"
+Capsicum,"A,B"
+Carrot (Local),"A,C"
+Carrot(Terai),"A,C"
+Cauli(Local),"C,K,B"
+Cauli Local(Jyapu),"C,K,B"
+Cauli Terai,"C,K,B"
+Celery,"A,C,K"
+Chilli Dry,"C,A,B6"
+Chilli Green,"C,A,B7"
+Chilli Green(Akbare),"C,A,B8"
+Chilli Green(Bullet),"C,A,B9"
+Chilli Green(Machhe),"C,A,B10"
+Christophine,A
+Clive Dry,E
+Clive Green,E
+Coriander Green,"A,C,K"
+Cow pea(Long),"A,C,B6"
+Cow pea(Short),"A,C,B7"
+Cress Leaf,"K,C,A"
+Cucumber(Hybrid),"K,C"
+Cucumber(Local),"K,C"
+Drumstick,"A,C,B1,B2,B6,B9"
+Fenel  Leaf,C
+Fenugreek Leaf,"A,B6,C"
+Fish Fresh,B12
+Fish Fresh(Bachuwa),B13
+Fish Fresh(Chhadi),B14
+Fish Fresh(Mungari),B15
+Fish Fresh(Rahu),B16
+French Bean(Hybrid),"A,K"
+French Bean(Local),"A,K"
+French Bean(Rajma),"A,K"
+Garlic Dry Chinese,C
+Garlic Dry Nepali,C
+Garlic Green,C
+Ginger,"B6,C"
+Grapes(Black),"C,K,B6"
+Grapes(Green),"C,K,B6"
+Green Peas,"K,C,B"
+Guava,C
+Gundruk,C
+Jack Fruit,"A,C"
+Kinnow,C
+Kiwi,"C,K,E"
+Knolkhol,"C,B6"
+Lemon,"C,B6"
+Lettuce,"A,C,K,B"
+Lime,"C,B6"
+Litchi(Indian),"B,C"
+Litchi(Local),"B,C"
+Maize,"A,E"
+Mandarin,"A,B,C"
+Mango(Calcutte),"A,C,E"
+Mango(Chousa),"A,C,E"
+Mango(Dushari),"A,C,E"
+Mango(Maldah),"A,C,E"
+Mint,"A,C"
+Mombin,A
+Mushroom(Button),"B,B2,B3"
+Mushroom(Kanya),"B,B2,B4"
+Musk Melon,"A,C,B1,B3,B5"
+Mustard  Leaf,K
+Neuro,B9
+Okara,"C,A"
+Onion Dry(Chinese),"C,B6"
+Onion Dry(Indian),"C,B7"
+Onion Green,"C,B8"
+Orange(Indian),C
+Orange(Nepali),C
+Parseley,A
+Pear(Chinese),"C,K"
+Pear(Local),"C,K"
+Pineapple,"B6,C"
+Pointed Gourd(Local),"A,B1,B2,C"
+Pointed Gourd(Terrai),"A,B1,B2,C"
+Pomegranate,C
+Potato Red,C
+Potato Red(Indian),C
+Potato Red(Mude),C
+Potato  White,C
+Pumpkin,"A,B2,C,E"
+Radish Red,"C,B6"
+Radish White(Hybrid),"C,B6"
+Radish White(Local),"C,B7"
+Red Cabbage,"A,B6,E"
+Smooth Gourd,"B2,B3,C,B6"
+Snake Gourd,"A,B,C"
+Soya Bean Green,K
+Spinach Leaf,"A,C,E,K,B"
+Sponge Gourd,"B1,B2,B3"
+Squash(Long),"C,K"
+Squash(Round),"C,K"
+Strawberry,C
+Sugarbeet,B6
+Sugarcane,B1
+Sweet Lime,C
+Sweet Orange,C
+Sweet Potato,"C,B6,B5,E"
+Sword Bean,"A,C"
+Tamarind,"C,B"
+Tofu,A
+Tomato Big(Indian),"C,A,B"
+Tomato Big(Nepali),"C,A,B"
+Tomato Small(Indian),"C,A,B"
+Tomato Small(Local),"C,A,B"
+Tomato Small(Terrai),"C,A,B"
+Tomato Small(Tunnel),"C,A,B"
+Turnip,"C,K,B"
+Turnip A,"C,K,B"
+Water Melon(Dotted),"A,C"
+Water Melon(Green),"A,C"
+Yam,"B5,C"
+Egg,A
+Carrot,A
+Milk,A
+Papaya,A
+Butter,A
+Greenleaf ,A
+Apricots,A
+Mango,C
+White Mushroom,D
+Cheese,D
+Cereal,D
+Chocolate milk,D
+Halibut,D
+Oatmeal,D
+Yogurt,D
+Sunflower Seed,E
+Almond,E
+Avacoda,E
+Hazelnuts,E
+Bell Pepper,E
+Wheat Gum,E
+Olive oil,E
+Kale,K
+Natto,K
+Mustard greens,K
+Brussels sprouts,K
+Collard greens,K
+Blueberries,K
+Low-Fat Milk,B2
+Lean beef and pork,B2
+Salmon,B2
+Dairy milk,B2
+Spinach,B2
+barley,B2
+Cayenne,B2
+Poultry,B3
+Brown rice,B3
+Fortified cereals and breads,B3
+Nuts,B3
+Legumes,B3
+Seeds,B3
+Corn,B5
+Potato,B5
+Soy products,B5
+Dried fruits,B5
+Whole grain bread ,B5
+Seafood,B5
+Crimini,B5
+Nutritional Yeast:,B7
+Pork,B7
+Peanuts,B7
+Beans,B9
+Romaine lettuce,B9
+Dark green leafy vegetables,B9
+Soya Beans,B12
+Sardines,B12
+Fortified cereal,B12
+Tuna,B12
+Trout,B12
+ Ricotta cheese,B6
+Pistachios,B6
+Litchi,B6
+Balsampear,B6
+Cornsalad raw,B6
